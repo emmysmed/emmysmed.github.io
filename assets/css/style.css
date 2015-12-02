@@ -1,5 +1,5 @@
-.col-md-1 {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  height: 1080px;
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+h1 {
+  font-family: 'Amatic SC', cursive;
 }
