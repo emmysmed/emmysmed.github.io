@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
-h1 {
+.header {
   font-family: 'Amatic SC', cursive;
   font-size: 135px;
 }
