@@ -1,6 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 h1 {
   font-family: 'Amatic SC', cursive;
-  font-size: 120px;
+  font-size: 135px;
+}
+
+.navbartabs {
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
 }
