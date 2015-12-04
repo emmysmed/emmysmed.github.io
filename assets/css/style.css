@@ -7,9 +7,14 @@
 }
 
 .navbartabs {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Slabo 27px', serif,;
+  color: white;
   font-size: 20px;
   text-align: center;
   border: 1px solid #6b8e23;
-  background-color:  #6b8e23; 
+  background-color:  #6b8e23;
+}
+
+.navbartabs:hover {
+  
 }
