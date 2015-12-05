@@ -11,7 +11,6 @@
   color: white;
   font-size: 20px;
   text-align: center;
-  border: 1px solid #6b8e23;
   background-color:  #6b8e23;
 }
 
@@ -19,9 +18,9 @@ a:hover {
 text-decoration: none;
 }
 
-.blockquote {
+.blockquote p {
   font-family: 'Slabo 27px', serif;
   color: white;
-font-size: 50px;
-background-color: #6b8e23;
+  font-size: 50px;
+  background-color: #6b8e23;
 }
