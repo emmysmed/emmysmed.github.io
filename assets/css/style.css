@@ -42,3 +42,9 @@ text-decoration: none;
 #contactbar {
   text-align: center;
 }
+
+.superfruit_header {
+  font-family: 'Amatic SC', cursive;
+  font-size: 135px;
+  text-align: center;
+}
