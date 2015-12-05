@@ -21,6 +21,7 @@ text-decoration: none;
 
 .blockquote {
   font-family: 'Slabo 27px', serif;
+  color: white;
 font-size: 50px;
 background-color: #6b8e23;
 }
