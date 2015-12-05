@@ -39,6 +39,11 @@ text-decoration: none;
   font-size: 30px;
 }
 
+.superfruit {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+
 #contactbar {
   text-align: center;
 }
