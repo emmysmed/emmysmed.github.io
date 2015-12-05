@@ -28,4 +28,9 @@ text-decoration: none;
 .contactme {
   font-family: 'Amatic SC', cursive;
   font-size: 135px;
+  text-align: center;
+}
+
+.aboutme {
+  font-family: 'Slabo 27px', serif;
 }
