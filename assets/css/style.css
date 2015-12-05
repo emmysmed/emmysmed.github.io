@@ -15,10 +15,11 @@
   background-color:  #6b8e23;
 }
 
-.navbartabs:hover {
-color: none; 
+a:hover {
+text-decoration: none;
 }
 
-.sec2quote {
-
+.blockquote {
+  font-family: 'Slabo 27px', serif;
+font-size: 45px;
 }
