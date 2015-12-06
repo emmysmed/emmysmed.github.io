@@ -64,10 +64,10 @@ text-decoration: none;
 }
 
 .recipe1 {
-  font-family: helvetica;
-  font-size: 15px;
+  font-size: 18px;
 }
 .recipe1_header {
   font-family: 'Slabo 27px', serif;
-  font-size: 20px;
+  font-size: 25px;
+  color:  #6b8e23;
 }
