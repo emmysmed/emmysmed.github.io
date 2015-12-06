@@ -62,3 +62,12 @@ text-decoration: none;
   font-size: 135px;
   text-align: center;
 }
+
+.recipe1 {
+  font-family: helvetica;
+  font-size: 15px;
+}
+.recipe1_header {
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
