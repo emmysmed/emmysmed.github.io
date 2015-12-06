@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
-.header {
+.homepage_header {
   font-family: 'Amatic SC', cursive;
   font-size: 135px;
 }
@@ -28,7 +28,7 @@ text-decoration: none;
   background-color: #6b8e23;
 }
 
-.contactme {
+.contactme_header {
   font-family: 'Amatic SC', cursive;
   font-size: 135px;
   text-align: center;
@@ -42,6 +42,15 @@ text-decoration: none;
 .superfruit {
   font-family: 'Slabo 27px', serif;
   font-size: 30px;
+}
+.recipes {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+.recipe_header {
+  font-family: 'Amatic SC', cursive;
+  font-size: 135px;
+  text-align: center;
 }
 
 #contactbar {
