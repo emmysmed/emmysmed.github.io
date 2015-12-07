@@ -39,6 +39,7 @@ text-decoration: none;
 .aboutme {
   font-family: 'Slabo 27px', serif;
   font-size: 30px;
+  padding-bottom: 15px;
 }
 
 .superfruit {
@@ -57,7 +58,6 @@ text-decoration: none;
 
 #contactbar {
   text-align: center;
-  padding-top: 15px;
 }
 
 .superfruit_header {
