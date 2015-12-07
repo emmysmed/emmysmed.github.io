@@ -68,11 +68,14 @@ text-decoration: none;
 
 .recipe1 {
   font-size: 18px;
+  color:white;
 }
 .recipe1_header {
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
+  color: white;
 }
 #recipe1block {
   background-color: #6b8e23;
+padding: 25px;
 }
