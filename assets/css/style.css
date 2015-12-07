@@ -23,7 +23,9 @@ text-decoration: none;
   color: white;
   font-size: 30px;
   background-color: #6b8e23;
+  padding-top: 30px;
 }
+
 #blockquote {
   background-color: #6b8e23;
 }
